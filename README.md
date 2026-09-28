@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and scripting
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on Git
-- 📫 How to reach me anandbmails
+- 📫 How to reach me anandbmails@gmail.com
 
 <!---
 anandbgith/anandbgith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
